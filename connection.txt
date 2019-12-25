@@ -1,0 +1,1 @@
+DRIVER={SQL Server};server=DESKTOP-2JEAV3T;database=minor;
